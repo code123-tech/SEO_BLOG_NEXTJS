@@ -3,9 +3,14 @@ An SEO BLOG Website Under Development. Users can write various blogs post their 
 
 # Tech Stack
 <h3>For backend</h3>
-*MongoDB ( Database)
-*Nodejs (Server Side)
+<ul>
+  <li>MongoDB ( Database)</li>
+  <li>Nodejs (Server Side)</li>
+</ul>
 
 <h3>For Frontend</h3>
-*Reactjs
-*Nextjs (For Server Side Rendering)
+<ul>
+  <li>Reactjs (Frontend Javascript Library)</li>
+  <li>Nextjs (For Server Side Rendering)</li>
+</ul>
+
