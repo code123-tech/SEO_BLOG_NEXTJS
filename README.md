@@ -2,10 +2,10 @@
 An SEO BLOG Website Under Development. Users can write various blogs post their blogs get a comment on them.
 
 # Tech Stack
-***For backend
+*For backend
 * MongoDB ( Database)
 * Nodejs (Server Side)
 
-***For Frontend
+*For Frontend
 * Reactjs
 * Nextjs (For Server Side Rendering)
